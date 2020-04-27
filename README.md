@@ -21,3 +21,8 @@ My favorite emojis:
 
 :money_mouth_face:
 :drooling_face:
+
+My checklist:
+- [x] Be cool
+- [x] Update the website
+- [ ] Take a nap
