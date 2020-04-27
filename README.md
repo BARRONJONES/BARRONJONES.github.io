@@ -2,4 +2,7 @@
 
 ## Greetings
 
-THIS IS MY FAVORITE WEBSITE EVER [website] https://leekspin.com/
+THIS IS MY FAVORITE WEBSITE EVER https://leekspin.com/
+
+I love horses!
+And pringles!
