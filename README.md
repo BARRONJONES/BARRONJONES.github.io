@@ -26,3 +26,6 @@ My checklist:
 - [x] Be cool
 - [x] Update the website
 - [ ] Take a nap
+
+Updates:
+I love going camping :tent:
