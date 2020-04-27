@@ -16,4 +16,8 @@ This is my pet owl!! ^
 | Harry Potter     | nah     |
 | Neville Longbottom   | yeah I guess       |
 | Luna Lovegood  | kinda      |
+
+My favorite emojis:
+
 :money_mouth_face:
+:drooling_face:
